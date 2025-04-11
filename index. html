@@ -125,9 +125,9 @@
             <h2>Resume</h2>
             <a href="" target="_blank" class="download-button">Download CV</a>
         </div>
-        <div class="section" id="resume">
+        <div class="section" id="certificate">
             <h2>Certificate</h2>
-            <a href="" target="_blank" class="download-button">Download CV</a>
+            <a href="Nm certificate.pdf" target="_blank" class="download-button">Download CV</a>
         </div>
     </div>
 
